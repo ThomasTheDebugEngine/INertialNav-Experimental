@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InertialNavg1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="AlertString">This app needs GPS to get initial position Enable GPS?</string>
+    <string name="EnableGPS">Enable</string>
+    <string name="CancelGPS">Cancel</string>
+</resources>
